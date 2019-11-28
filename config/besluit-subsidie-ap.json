@@ -1,0 +1,16 @@
+[{
+  "name": "besluit-subsidie-ap",
+  "type": "ap",
+  "eap": "OSLO-Besluit-Subsidie-AP-2.eap",
+  "diagram": "OSLO-Besluit-Subsidie",
+  "template": "besluit-subsidie-ap.j2",
+  "title": "Besluit Subsidie",
+  "publication-state": "https://data.vlaanderen.be/id/conceptscheme/OntwerpStandaard",
+  "publication-date": "02-12-2019",
+  "license" : "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "Besluit-Subsidie",
+  "site": "site-skeleton",
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLO-Discussion/issues",
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/"
+}]
